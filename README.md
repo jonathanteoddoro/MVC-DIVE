@@ -7,7 +7,8 @@
 DIVE - Dell Interactive Virtual Environment
 
 #### Descrição: 
-O DIVE é uma plataforma...
+O DIVE é uma plataforma de treinamento para divulgar e a disponibilizar materiais técnicos (manuais) sobre o processo de
+montagem de diferentes produtos da DELL.
 
 #### Arquitetura: 
 MVC (Model-View-Controller)
